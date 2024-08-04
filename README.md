@@ -33,7 +33,7 @@ An app for creating professional profile pictures by removing backgrounds and ad
 - **Technologies**: Swift, SwiftUI
 - **Features**: Real-time background removal, frame selection, image editing
 
-### [Incoming Call Message App]
+### Incoming Call Message App
 An Android app that reads incoming call names and sends pre-saved messages if the caller is in the favorites list.
 - **Technologies**: Kotlin
 - **Features**: Caller identification, automated messaging
