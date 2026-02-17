@@ -17,7 +17,7 @@ Shravan Amudala
 ├── Edinburgh, Scotland
 ├── MSc Computing @ Edinburgh Napier University (2025-2026)
 ├── Technical Lead — The System: Level Up
-└── Originally from Telangana, India
+└── Originally from India
 ```
 
 I build things at the intersection of **web development**, **mobile apps**, **backend systems**, and **AI**. Currently leading development on a gamified fitness platform that won **startup funding** through the Bright Red Sparks competition.
