@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Shravan%20Amudala&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20iOS%20%E2%80%A2%20Backend%20%E2%80%A2%20AI%2FML&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Building+gamified+fitness+tech+%F0%9F%8F%8B%EF%B8%8F;Full+Stack+%7C+iOS+%7C+Backend+%7C+AI+%F0%9F%9A%80;MSc+Computing+%40+Edinburgh+Napier+%F0%9F%8E%93" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Building+gamified+fitness+tech;Full+Stack+%7C+iOS+%7C+Backend+%7C+AI;MSc+Computing+%40+Edinburgh+Napier+%F0%9F%8E%93" alt="Typing SVG" /></a>
 
 </div>
 
