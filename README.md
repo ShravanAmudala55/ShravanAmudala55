@@ -103,12 +103,23 @@ When I'm not coding, I'm prototyping hardware with Raspberry Pi.
 
 <div align="center">
   
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShravanAmudala55&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170"/>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShravanAmudala55&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats-one-pi-88.vercel.app/api?username=ShravanAmudala55&show_icons=true&count_private=true&hide_rank=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats-one-pi-88.vercel.app/api/top-langs/?username=ShravanAmudala55&layout=compact&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShravanAmudala55&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3&area=true&area_color=1f6feb" width="100%"/>
 
 </div>
+
+---
+
+## GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ShravanAmudala55&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="60%"/>
+
+</div>
+
 
 ---
 
