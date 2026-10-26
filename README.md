@@ -15,12 +15,13 @@
 ```
 Shravan Amudala
 ├── Edinburgh, Scotland
-├── MSc Computing @ Edinburgh Napier University (2025-2026)
-├── Technical Lead — The System: Level Up
+├── MSc Computing (Merit) @ Edinburgh Napier University
+├── Founder & Lead Software Engineer — The System: Level Up
+├── Solo developer — pic2muse, live on the App Store
 └── Originally from India
 ```
 
-I build things at the intersection of **web development**, **mobile apps**, **backend systems**, and **AI**. Currently leading development on a gamified fitness platform that won **startup funding** through the Bright Red Sparks competition.
+I build things at the intersection of **mobile apps**, **backend systems**, **web development**, and **AI**. I recently released **pic2muse**, an iPhone app that turns a photo into music, and I'm building a gamified fitness platform, The System, which won **£500** at the Bright Red Sparks pitch competition.
 
 When I'm not coding, I'm prototyping hardware with Raspberry Pi.
 
@@ -35,6 +36,7 @@ When I'm not coding, I'm prototyping hardware with Raspberry Pi.
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -46,7 +48,9 @@ When I'm not coding, I'm prototyping hardware with Raspberry Pi.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
@@ -59,9 +63,29 @@ When I'm not coding, I'm prototyping hardware with Raspberry Pi.
 
 ---
 
-## Featured Project
+## Featured Projects
 
 <table>
+<tr>
+<td width="100%">
+
+### 🎵 pic2muse — live on the App Store
+
+> *An iPhone app that turns a photo into music.*
+
+- 📱 **Swift/SwiftUI** app, built, tested and released solo
+- 🎹 **Custom-built synthesiser** on AVAudioEngine, driven by the colours of your photo
+- 💳 One-time in-app purchase with StoreKit 2
+- 🔗 **[Get it on the App Store](https://apps.apple.com/us/app/pic2muse/id6822943611)**
+
+<div align="center">
+
+`Swift` `SwiftUI` `AVFoundation` `StoreKit 2`
+
+</div>
+
+</td>
+</tr>
 <tr>
 <td width="100%">
 
@@ -69,17 +93,16 @@ When I'm not coding, I'm prototyping hardware with Raspberry Pi.
 
 > *A gamified fitness platform that turns your workout into an RPG adventure.*
 
-**Award-Winning** — Bright Red Sparks & Student Grant Initiative
+**Award-winning** — £500 at the Bright Red Sparks pitch competition (Edinburgh Napier)
 
-- 📱 **iOS app** built with Swift/SwiftUI featuring real-time pose detection via MediaPipe
-- ⚙️ **Go backend** with PostgreSQL, deployed on Railway
-- 🤖 **BiLSTM models** for exercise form correction and rep counting
-- 🔧 **Hardware prototype** — Raspberry Pi Zero 2W with PiSugar battery, Waveshare display & camera module
+- 📱 **iOS app** in Swift/SwiftUI that counts squats, push-ups and sit-ups from MediaPipe pose landmarks
+- ⚙️ **Go backend** on PostgreSQL: Apple, Google and demo sign-in, XP and levelling, quests, friends and a leaderboard ([code sample](https://github.com/ShravanAmudala55/system-fitness-backend))
+- 🔧 **Hardware prototype** — rebuilt a 4 FPS ESP32-CAM stream around a Raspberry Pi Zero 2W to reach 30 FPS
 - 🎮 RPG mechanics (XP, levels, quests) designed to combat fitness app dropout rates
 
 <div align="center">
-  
-`Swift` `SwiftUI` `Go` `PostgreSQL` `MediaPipe` `TensorFlow` `Raspberry Pi` `Railway`
+
+`Swift` `SwiftUI` `Go` `PostgreSQL` `MediaPipe` `Raspberry Pi`
 
 </div>
 
@@ -87,13 +110,19 @@ When I'm not coding, I'm prototyping hardware with Raspberry Pi.
 </tr>
 </table>
 
+### Also built
+
+- **Brunchin** — restaurant ordering platform: Flutter customer app, React admin and POS panel, Node.js thermal-printer service
+- **Telugu Association Basingstoke** — community website (React, TypeScript, Supabase), volunteer lead developer
+- **MSc dissertation** — real-time squat form classification with a BiLSTM and MediaPipe pose estimation
+
 ---
 
 ## Portfolio
 
 <div align="center">
 
-🖥️ **[shravanamudala.me](https://shravanamudala.me)** — My developer portfolio
+🖥️ **[shravanamudala.com](https://shravanamudala.com)** — My developer portfolio
 
 </div>
 
@@ -128,8 +157,8 @@ When I'm not coding, I'm prototyping hardware with Raspberry Pi.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravan-amudala-3589641a7/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=safari&logoColor=white)](https://shravanamudala.me)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shravanamudala55@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=safari&logoColor=white)](https://shravanamudala.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shravan.amudala55@gmail.com)
 
 </div>
 
