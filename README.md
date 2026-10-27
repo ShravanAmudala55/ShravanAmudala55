@@ -2,7 +2,7 @@
 
 Software engineer in Edinburgh, UK. iOS, backend and applied machine learning.
 
-[Portfolio](https://shravanamudala.com) · [LinkedIn](https://www.linkedin.com/in/shravan-amudala-3589641a7/) · [CV](https://shravanamudala.com/myresume.pdf) · [Email](mailto:shravan.amudala55@gmail.com)
+[Portfolio](https://shravanamudala.com) · [LinkedIn](https://www.linkedin.com/in/shravan-amudala-3589641a7/) · [CV](https://shravanamudala.com/myresume.pdf) · [Email](mailto:hello@shravanamudala.com)
 
 ## About
 
@@ -38,4 +38,4 @@ Code samples: [system-fitness-backend](https://github.com/ShravanAmudala55/syste
 
 ## Contact
 
-The quickest way is [email](mailto:shravan.amudala55@gmail.com) or [LinkedIn](https://www.linkedin.com/in/shravan-amudala-3589641a7/).
+The quickest way is [email](mailto:hello@shravanamudala.com) or [LinkedIn](https://www.linkedin.com/in/shravan-amudala-3589641a7/).
